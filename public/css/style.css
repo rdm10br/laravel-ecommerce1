@@ -1,0 +1,163 @@
+.navbar-custom{
+    background-color: #331557;
+    height: 50px;
+    padding: 0px !important;
+    position: fixed;
+}
+
+.nav-link a:hover {
+    color: black;
+}
+
+.ovo {
+    display: block;
+    position: relative;
+    /*padding: 3rem 0rem 0rem 0rem;/
+    /trbl*/
+}
+
+.logo a {
+    color:black;
+    font-size: 20pt;
+}
+
+.logo a:link {
+    text-decoration: none;
+}
+
+.logo a:hover {
+    color: #696969;
+}
+
+.image-logo {
+
+    width: 150px;
+    height: 130px;
+}
+
+.carrinho{
+
+    width: 200px;
+    height: 170px;
+}
+
+.navbar .nav-link{
+    height:50px;
+    padding-top:12px;
+}
+
+.nav-link:hover{
+    background-color: #7123B8;
+}
+
+.botao a{
+    color: black;
+}
+
+.botao a:hover {
+    text-decoration: none;
+    color: black;
+}
+.itens a {
+    color: black;
+}
+
+.itens a:hover {
+    color: #331557;
+}
+
+footer.rodape {
+    background-color: #331557;
+    position: relative ;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.dropdown-itensmenu a{
+    color: black;
+  background-color: transparent;
+  text-decoration: none;
+
+}
+
+.header .btn {
+    background-color: #331557;
+}
+
+.row-custom {
+    background-color: #331557;
+}
+
+#linha-itens {
+    padding-top: 0px;     
+}
+
+div#linhaItens {
+    border: 2px solid;
+    padding: 3px;
+    border-radius: 25px;
+    padding: 0px !important;
+    height: 45px;
+    width: 100%;
+}
+
+#corpocarrinho{
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+}
+
+a#testeatt{
+    padding-left: 15px;
+}
+
+#bg-custom{
+    background: #7123B8;
+}
+
+#bg-custom a:hover {
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+}
+
+input#buscaprinc{
+    border: 1px solid #331557;       
+}
+
+.Produtos {
+    width: 650px;
+    margin: 0 0 0 10px;
+}
+
+.H-img {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 145px;
+    width: 160px;
+}
+
+.H-box {
+    text-align: left;
+    width: 200px;
+    overflow: hidden;
+    float: left;
+    display: inline;
+    margin: 10rem 0rem 5rem 6rem;
+    padding: 0 10rem 13rem 20px;
+    border: 1px solid #7123B8;
+    border-radius: 8px;
+    height: 590px;
+}
+
+img {
+    border: 0;
+    text-align: right;
+}
+
+.H-box a img {
+    vertical-align: middle;
+}
